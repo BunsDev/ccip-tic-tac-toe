@@ -65,6 +65,8 @@ typings/
 # Next.js build output
 .next
 
+# Mac Files
+.DS_Store
 
 # Lock files
 package-lock.json
